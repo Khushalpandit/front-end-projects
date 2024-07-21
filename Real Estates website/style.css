@@ -1,0 +1,93 @@
+.navibar {
+  color: black;
+  box-shadow: 0px 3px 3px 3px rgb(221, 207, 207);
+  font-weight: 700;
+  position: fixed;
+  top: 100%;
+  font-size: 17px;
+}
+.btnnav {
+  color: white;
+  font-weight: 600;
+  border: none;
+  background-color: brown;
+}
+.sec-3 {
+  background-image: url("images/asset\ 53.webp");
+  background-position: center;
+  background-size: cover;
+
+  color: white;
+  font-weight: 400;
+}
+.set-h2 {
+  font-weight: 500;
+  color: orange;
+}
+
+.set-p p {
+  font-weight: 200;
+  line-height: 30px;
+}
+.set-row span {
+  font-weight: 400;
+  font-size: 23px;
+  padding: 10px;
+}
+.set-row h5 {
+  color: orange;
+}
+.gallery-set h2 {
+  font-weight: 700;
+}
+.whyjumi p {
+  font-size: 18px;
+  font-weight: 400;
+}
+.floor {
+  font-size: 30px;
+  font-weight: 700;
+}
+.Abtn {
+  padding: 10px 10px;
+  background-color: red;
+  border: none;
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+  margin: 10px;
+  border-bottom: 1px solid grey;
+}
+.formset form {
+  padding: 10px 30px;
+}
+.formset form input {
+  width: 45%;
+  height: 30px;
+  margin: 10px 10px;
+  padding: 20px 10px;
+}
+.formset form div textarea {
+  width: 94%;
+  padding: 10px 10px;
+  resize: none;
+  margin-top: 20px;
+}
+.formset form div button {
+  width: 95%;
+  height: 40px;
+  background-color: red;
+  color: white;
+  margin-top: 30px;
+  border: none;
+  font-size: 17px;
+  font-weight: 600;
+}
+footer{
+    background-image: url("images/asset\ 54.webp");
+ 
+
+}
+.bodset{
+    border-bottom: 1px solid white;
+}
